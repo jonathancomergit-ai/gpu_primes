@@ -1,0 +1,37 @@
+# --- build output / caches ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+node_modules/
+
+# --- virtual environments (reinstall from requirements.txt instead) ---
+venv/
+.venv/
+env/
+
+# --- editor / OS junk ---
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+
+# --- SECRETS: never commit these ---
+*.secret
+.env
+.env.*
+credentials.json
+.credentials.json
+*.pem
+*.key
+id_rsa*
+*.exe
+*.obj
+*.exp
+*.lib
+primes.txt
