@@ -35,3 +35,6 @@ id_rsa*
 *.exp
 *.lib
 primes.txt
+
+# --- personal notes: stay on my PC only ---
+session_report.md
