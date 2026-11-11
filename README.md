@@ -38,3 +38,7 @@ Then just run `primes.exe` and watch it go.
 
 `primes.txt` (the output) and the compiled `.exe` aren't in here on purpose - the output file
 got to over a gigabyte and GitHub was NOT going to be happy about that.
+
+## Licence
+
+MIT, see [LICENSE](LICENSE).
